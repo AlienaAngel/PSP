@@ -1,0 +1,5 @@
+D:\Univer\PSP\экзамен\Http\Http\bin\Debug\Http.exe
+D:\Univer\PSP\экзамен\Http\Http\bin\Debug\Http.pdb
+D:\Univer\PSP\экзамен\Http\Http\obj\Debug\Http.csprojResolveAssemblyReference.cache
+D:\Univer\PSP\экзамен\Http\Http\obj\Debug\Http.exe
+D:\Univer\PSP\экзамен\Http\Http\obj\Debug\Http.pdb

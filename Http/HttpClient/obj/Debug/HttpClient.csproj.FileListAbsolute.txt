@@ -1,0 +1,4 @@
+D:\Univer\PSP\экзамен\Http\HttpClient\bin\Debug\HttpClient.exe
+D:\Univer\PSP\экзамен\Http\HttpClient\bin\Debug\HttpClient.pdb
+D:\Univer\PSP\экзамен\Http\HttpClient\obj\Debug\HttpClient.exe
+D:\Univer\PSP\экзамен\Http\HttpClient\obj\Debug\HttpClient.pdb
