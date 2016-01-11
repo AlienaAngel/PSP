@@ -1,0 +1,4 @@
+G:\Univer\ЭкзаменПСП\bilet15\Client\bin\Debug\Client.exe
+G:\Univer\ЭкзаменПСП\bilet15\Client\bin\Debug\Client.pdb
+G:\Univer\ЭкзаменПСП\bilet15\Client\obj\x86\Debug\Client.exe
+G:\Univer\ЭкзаменПСП\bilet15\Client\obj\x86\Debug\Client.pdb

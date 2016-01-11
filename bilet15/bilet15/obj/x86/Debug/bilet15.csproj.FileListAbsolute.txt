@@ -1,0 +1,4 @@
+G:\Univer\ЭкзаменПСП\bilet15\bilet15\bin\Debug\bilet15.exe
+G:\Univer\ЭкзаменПСП\bilet15\bilet15\bin\Debug\bilet15.pdb
+G:\Univer\ЭкзаменПСП\bilet15\bilet15\obj\x86\Debug\bilet15.exe
+G:\Univer\ЭкзаменПСП\bilet15\bilet15\obj\x86\Debug\bilet15.pdb
